@@ -1,5 +1,5 @@
 {
-    "name": "maqe/laravel-sqs-fifo",
+    "name": "borsen/laravel-sqs-fifo",
     "description": "Laravel package that enables support for SQS FIFO Queue",
     "keywords": ["queue", "job", "laravel", "sqs", "fifo"],
     "license": "MIT",
