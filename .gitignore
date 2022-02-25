@@ -2,3 +2,7 @@ composer.lock
 phpunit.xml
 vendor
 .DS_Store
+.vagrant
+.idea
+/bootstrap.sh
+/Vagrantfile
